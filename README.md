@@ -30,7 +30,7 @@ Here are the features in summary:
 
 
 ## Github Pages link
-You can view the live application by following this link 
+You can view the live application by following this link https://lilvin.github.io/Akan_Names_Generator/
 
 ## License
 #### *MIT License*
